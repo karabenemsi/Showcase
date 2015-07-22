@@ -6,12 +6,12 @@
 ///   Value for the `word-break` property.
 ///
 /// @example scss - Usage
-///   .wrapper {
+///   #wrapper {
 ///     @include word-wrap(break-word);
 ///   }
 ///
 /// @example css - CSS Output
-///   .wrapper {
+///   #wrapper {
 ///     overflow-wrap: break-word;
 ///     word-break: break-all;
 ///     word-wrap: break-word;
